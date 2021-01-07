@@ -19,10 +19,6 @@ config/name="2DPlatfromerWater"
 run/main_scene="res://World/World.tscn"
 config/icon="res://icon.png"
 
-[autoload]
-
-SceneSwitcher="*res://SceneSwitcher.gd"
-
 [display]
 
 window/size/width=480
